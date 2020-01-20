@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Trash
+  - Ground
+  - BGScroller
+  - Enemy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PickUps
+  - Ground
+  - Background
+  - Enemy
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2627537723
+    locked: 0
+  - name: Ground
+    uniqueID: 1464570221
+    locked: 0
+  - name: Trash
+    uniqueID: 3732616953
+    locked: 0
+  - name: Enemy
+    uniqueID: 3031475031
+    locked: 0
+  - name: Player
+    uniqueID: 1762096031
+    locked: 0
